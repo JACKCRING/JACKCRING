@@ -3,7 +3,7 @@
   <a href="https://www.jackcring.com"><img src="./images/hey.png" alt="显示不了图片？开一下 VPN 吧🛫"></a>
 </p>
 
-### Cases
+### CASES
 
 <p>
   <a href="https://lv.ulikecam.com/"><img src="./images/P0.png" alt="剪映专业版-轻而易剪，上演大幕 (Capcut Pro)"></a>
